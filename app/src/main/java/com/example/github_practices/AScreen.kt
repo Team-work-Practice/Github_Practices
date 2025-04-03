@@ -10,5 +10,6 @@ fun ScreenA(modifier: Modifier = Modifier) {
         HelloWorldText()
         HelloWorldText()
         HelloWorldText()
+        HelloWorldText()
     }
 }
