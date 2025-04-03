@@ -7,6 +7,7 @@ import androidx.compose.ui.Modifier
 @Composable
 fun ScreenA(modifier: Modifier = Modifier) {
     Column {
+        print("Hello World")
         HelloWorldText()
         HelloWorldText()
         HelloWorldText()
