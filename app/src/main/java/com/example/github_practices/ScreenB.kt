@@ -11,6 +11,10 @@ fun ScreenB(modifier: Modifier = Modifier) {
     Row {
 
     }
+    Row {
+
+    }
+
     Column {
 
     }
