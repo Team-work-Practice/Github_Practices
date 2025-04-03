@@ -8,5 +8,6 @@ import androidx.compose.ui.Modifier
 fun ScreenA(modifier: Modifier = Modifier) {
     Column {
         HelloWorldText()
+        HelloWorldText()
     }
 }
