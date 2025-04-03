@@ -9,5 +9,6 @@ fun ScreenA(modifier: Modifier = Modifier) {
     Column {
         HelloWorldText()
         HelloWorldText()
+        HelloWorldText()
     }
 }
