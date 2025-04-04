@@ -8,5 +8,5 @@ import androidx.compose.ui.Modifier
 fun HelloWorldText(modifier: Modifier = Modifier) {
     Text(text = "Hello World!!" , modifier = modifier)
     Text(text = "Hello World!!!" , modifier = modifier)
-    Text(text = "Hello World!!!!" , modifier = modifier)
+    Text(text = "Edit #2 from A" , modifier = modifier)
 }
