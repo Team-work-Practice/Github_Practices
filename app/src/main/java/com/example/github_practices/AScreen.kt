@@ -15,5 +15,7 @@ fun ScreenA(modifier: Modifier = Modifier) {
         HelloWorldText()
         HelloWorldText()
         HelloWorldText()
+        HelloWorldText()
+        print("Edit #1 From A")
     }
 }
