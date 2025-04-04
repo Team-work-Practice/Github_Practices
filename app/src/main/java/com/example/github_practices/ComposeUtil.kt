@@ -9,5 +9,6 @@ fun HelloWorldText(modifier: Modifier = Modifier) {
     Text(text = "Hello World!!" , modifier = modifier)
     Text(text = "Hello World!!!" , modifier = modifier)
     Text(text = "Edit #2 from A" , modifier = modifier)
+    Text(text = "new Edit #2 from B" , modifier = modifier)
     Text(text = "new Edit #2 from A" , modifier = modifier)
 }
