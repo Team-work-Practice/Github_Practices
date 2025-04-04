@@ -18,5 +18,6 @@ fun ScreenA(modifier: Modifier = Modifier) {
         HelloWorldText()
         HelloWorldText()
         print("Edit #1 From A")
+        print("New Edit #1 From B")
     }
 }
