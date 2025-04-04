@@ -14,4 +14,5 @@ fun HelloWorldText(modifier: Modifier = Modifier) {
     Text(text = "new Edit #2 from B" , modifier = modifier)
     Text(text = "new Edit #3 from B" , modifier = modifier)
     Text(text = "new Edit #3 from B" , modifier = modifier)
+    Text(text = "new Edit #3 from B" , modifier = modifier)
 }
