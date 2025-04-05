@@ -20,6 +20,7 @@ class MainActivity : ComponentActivity() {
         setContent {
           Text(text = "Hello world !")
           Text(text = "Hello world !")
+          Text(text = "Hello world !")
         }
     }
 }
