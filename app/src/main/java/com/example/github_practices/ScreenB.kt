@@ -8,14 +8,4 @@ import androidx.compose.ui.Modifier
 @Composable
 fun ScreenB(modifier: Modifier = Modifier) {
     HelloWorldText()
-    Row {
-
-    }
-    Row {
-
-    }
-
-    Column {
-
-    }
 }

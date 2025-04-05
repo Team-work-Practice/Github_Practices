@@ -18,7 +18,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
-          Text(text = "Hello world !!!")
+          Text(text = "Hello world !")
         }
     }
 }
