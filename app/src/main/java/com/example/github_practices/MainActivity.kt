@@ -21,6 +21,7 @@ class MainActivity : ComponentActivity() {
           Text(text = "Hello world !")
           Text(text = "Hello world !")
           Text(text = "Hello world !")
+          Text(text = "Hello world !")
         }
     }
 }
